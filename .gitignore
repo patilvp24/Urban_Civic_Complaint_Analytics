@@ -56,3 +56,6 @@ ehthumbs.db
 
 data/raw/nyc_311_snapshot_1M.csv
 data/cleaned/nyc_311_cleaned.tsv
+
+data/raw/nyc_311_snapshot_1M.csv
+data/cleaned/nyc_311_cleaned.tsv

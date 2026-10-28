@@ -1,0 +1,12 @@
+{
+  "total_records_analyzed": 1000005,
+  "closed_requests_count": 981115,
+  "open_requests_count": 8839,
+  "resolution_rate_percent": 98.11,
+  "overall_avg_resolution_hours": 734.1,
+  "overall_avg_resolution_days": 30.59,
+  "total_resolved_valid_duration": 981336,
+  "top_complaint_type": "Noise - Residential",
+  "top_agency": "NYPD",
+  "top_borough": "BROOKLYN"
+}

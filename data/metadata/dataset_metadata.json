@@ -1,0 +1,21 @@
+{
+  "dataset_id": "erm2-nwe9",
+  "dataset_title": "311 Service Requests from 2020 to Present",
+  "source_url": "https://data.cityofnewyork.us/resource/erm2-nwe9.csv",
+  "query_parameters": {
+    "$select": "unique_key,created_date,closed_date,agency,complaint_type,descriptor,status,borough,latitude,longitude",
+    "$order": "unique_key ASC",
+    "$limit": 1000005
+  },
+  "snapshot_timestamp_utc": "2026-10-27T17:56:34Z",
+  "total_rows_downloaded": 1000005,
+  "distinct_unique_keys": 1000005,
+  "file_size_bytes": 173267591,
+  "file_size_mb": 165.24,
+  "sha256_checksum": "a6b3313d2ede84c4436b0fba056ab7eeb637be64a1a8df027fa0f41e12a38c2c",
+  "raw_csv_path": "data/raw/nyc_311_snapshot_1M.csv",
+  "download_duration_seconds": 146.1,
+  "first_record_sample": "\"40287734\",\"2020-09-25T15:43:34.000\",\"2020-09-25T15:43:34.000\",\"DPR\",\"Maintenance or Facility\",\"Structure - Outdoors\",\"Closed\",\"BRONX\",,",
+  "last_record_sample": "\"46420070\",\"2020-06-08T20:45:05.000\",\"2020-06-08T21:09:06.000\",\"NYPD\",\"Noise - Commercial\",\"Loud Music/Party\",\"Closed\",\"BRONX\",\"40.824562392989264\",\"-73.9266772629111\"",
+  "status": "VERIFIED_IMMUTABLE_SNAPSHOT"
+}

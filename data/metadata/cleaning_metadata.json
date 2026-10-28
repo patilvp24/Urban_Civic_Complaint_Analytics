@@ -1,0 +1,39 @@
+{
+  "source_raw_csv_path": "data/raw/nyc_311_snapshot_1M.csv",
+  "cleaned_tsv_path": "data/cleaned/nyc_311_cleaned.tsv",
+  "columns": [
+    "unique_key",
+    "created_date",
+    "closed_date",
+    "agency",
+    "complaint_type",
+    "descriptor",
+    "status",
+    "borough",
+    "latitude",
+    "longitude"
+  ],
+  "delimiter": "\\t",
+  "source_total_rows": 1000005,
+  "cleaned_total_rows": 1000005,
+  "distinct_unique_keys": 1000005,
+  "duplicate_unique_keys_detected": 0,
+  "excluded_rows_total": 0,
+  "excluded_reasons": {},
+  "quality_metrics": {
+    "open_requests_missing_closed_date": 8839,
+    "missing_descriptors_normalized": 1,
+    "unspecified_boroughs": 15792,
+    "missing_coordinates": 32228,
+    "invalid_coordinates_sanitized": 0,
+    "invalid_created_timestamps_excluded": 0,
+    "invalid_closed_timestamps_sanitized": 0,
+    "inverted_timestamps_retained": 9830
+  },
+  "file_size_bytes": 130055233,
+  "file_size_mb": 124.03,
+  "sha256_checksum": "509e5b4dc31c85c548a215ba3bb5967931271db41ac7a7e8b8fc1b6e2c23260a",
+  "duration_seconds": 34.47,
+  "timestamp_utc": "2026-10-27T18:03:47Z",
+  "status": "CLEANED_AND_NORMALIZED"
+}

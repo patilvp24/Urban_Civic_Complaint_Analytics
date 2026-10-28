@@ -1,0 +1,35 @@
+agency,status,count
+DCA,Closed,23046
+DEP,Assigned,14
+DEP,Closed,51064
+DEP,Open,25
+DEP,Pending,5
+DEP,Started,227
+DFTA,Closed,2188
+DHS,Closed,8835
+DHS,In Progress,5
+DOB,Assigned,13
+DOB,Closed,37881
+DOB,Open,14
+DOE,Closed,557
+DOHMH,Closed,19295
+DOHMH,In Progress,2997
+DOITT,Closed,135
+DOT,Assigned,59
+DOT,Closed,81013
+DOT,Pending,10454
+DOT,Unspecified,1
+DPR,Closed,25833
+DPR,In Progress,2616
+DSNY,Assigned,1
+DSNY,Closed,163513
+DSNY,In Progress,1
+DSNY,Open,137
+DSNY,Pending,153
+EDC,Closed,2928
+HPD,Closed,150397
+HPD,Open,212
+NYPD,Closed,407464
+OSE,Closed,81
+TLC,Closed,6885
+TLC,In Progress,1956

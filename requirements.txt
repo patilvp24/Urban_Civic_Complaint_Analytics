@@ -1,0 +1,11 @@
+# Python dependencies for Urban Civic Complaint Analytics
+# Phase 1 & Data Ingestion
+requests>=2.31.0
+pandas>=2.0.0
+
+# Testing
+pytest>=7.4.0
+
+# Dashboard & Interactive Visualizations (Phase 5)
+streamlit>=1.30.0
+plotly>=5.18.0
